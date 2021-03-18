@@ -1,1 +1,3 @@
-# Nth-Fibonacci - Implementation
+# Nth-Fibonacci - Algorithm
+
+Implementation in Java
